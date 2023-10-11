@@ -25,7 +25,12 @@ into compelling visuals using Power BI to provide a holistic view of pizza busin
 - Conditional Formatting
 - Report Beautification
 
-    Overall, this project aims to empower business with the necessary tools and insights to monitor, evaluate, and enhance their sales data analysis, 
+## Screenshots
+![PizzaDashboardSS1](https://github.com/BhargaviPappuru/PizzaSales_BI/assets/89293971/b3e4dc03-304b-4190-b315-ea0dbf86ad4a)
+
+![PizzaDasbhboard](https://github.com/BhargaviPappuru/PizzaSales_BI/assets/89293971/182b36e1-4f07-4121-8f79-8b4a4e5bdc92)
+
+Overall, this project aims to empower business with the necessary tools and insights to monitor, evaluate, and enhance their sales data analysis,
 businesses can unlock new opportunities, drive growth, and stay competitive in the dynamic market.
 
 
